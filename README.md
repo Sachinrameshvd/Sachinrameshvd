@@ -1,6 +1,4 @@
 # 🛡️ Sachin Kuppuswamy
-### **Artificial Intelligence & Machine Learning Engineer**
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=1000&height=80&duration=4000&color=58a6ff&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer" />
 </div>
