@@ -1,4 +1,6 @@
 # 🛡️ Sachin Kuppuswamy
+### **Artificial Intelligence & Machine Learning Engineer**
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=1000&height=80&duration=4000&color=58a6ff&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer" />
 </div>
@@ -59,17 +61,11 @@ Professional **Artificial Intelligence and Machine Learning Engineer** specializ
 ### 📊 Performance & Contributions
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&description_lines_count=3" />
-      </td>
-      <td>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=tokyonight&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=tokyonight&langs_count=8" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -92,4 +88,3 @@ Professional **Artificial Intelligence and Machine Learning Engineer** specializ
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
-
