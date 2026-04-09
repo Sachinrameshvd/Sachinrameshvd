@@ -12,9 +12,6 @@
   <a href="mailto:sachinrameshvijayarani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" />
   </a>
-  <a href="https://github.com/Sachinrameshvd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" />
-  </a>
   <a href="https://drive.google.com/file/d/1vPaYHZlw-ltIAMkzeJFsiuBIp7UXhxPY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Resume-28a745?style=flat-square&logoColor=white" height="25" />
   </a>
