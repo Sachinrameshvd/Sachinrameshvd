@@ -65,18 +65,6 @@ I am a professional **Artificial Intelligence & Machine Learning Engineer** spec
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=tokyonight&hide_border=true" height="130" />
-</p>
-
----
-
 ### 📜 Verified Credentials
 
 *   🛡️ **Oracle** Cloud Infrastructure AI Foundations Associate
