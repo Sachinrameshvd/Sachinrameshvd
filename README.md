@@ -77,7 +77,7 @@ I am a professional **Artificial Intelligence & Machine Learning Engineer** spec
 > *"AI is only as powerful as it is interpretable. My mission is to build intelligent systems that aren't just accurate, but also transparent, ethical, and scalable."*
 
 *   **Exploring**: Federated Causal Inference (FedCausalFreshNet) & Distributed systems for LLMs.
-*   **Leadership**: Secretary of CyberAnzen Club | Mentored 100+ students in ML & System Design.
+*   **Leadership**: Secretary of CyberAnzen Club | Mentored 10+ students in ML & System Design.
 
 <br/>
 <p align="center">
