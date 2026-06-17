@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Sachin%20Kuppuswamy&fontSize=38&fontColor=ffffff&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer&descSize=16&descAlignY=62&descAlign=50" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sachin-kuppuswamy">
