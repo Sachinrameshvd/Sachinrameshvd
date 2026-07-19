@@ -1,5 +1,9 @@
-
-<p align="center">
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="https://github.com/Sachinrameshvd.png" width="220" style="border-radius:50%;" /><br/><br/>
+  <b style="font-size:20px;">Sachin Kuppuswamy</b><br/>
+  <sub>@Sachinrameshvd</sub><br/><br/>
   <a href="https://linkedin.com/in/sachin-kuppuswamy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
   </a>
@@ -9,16 +13,39 @@
   <a href="https://github.com/Sachinrameshvd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" />
   </a>
-</p>
+</td>
+<td width="70%">
+
+```
+sachin@ml-engineer
+-------------------
+Role: ................... AI & Machine Learning Engineer
+Focus: .................. Explainable AI (XAI), LLM Architecture, MLOps
+Core.Impact: ............ 88%+ model accuracy, 30% latency reduction
+Languages.Programming: .. Python, Java, C++, SQL
+Frameworks: ............. PyTorch, TensorFlow, Keras, Hugging Face
+Infra: .................. Docker, Kubernetes, AWS, GCP
+Certifications: ......... Oracle | AWS | IBM | Microsoft | Snowflake
+Leadership: ............. Secretary @ CyberAnzen Club
+Mentoring: .............. 10+ students in ML & System Design
+Contact.Email: .......... sachinrameshvijayarani@gmail.com
+Contact.LinkedIn: ....... sachin-kuppuswamy
+Contact.GitHub: ......... Sachinrameshvd
+-------------------
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🏛️ Executive Summary
-I am a professional **Artificial Intelligence & Machine Learning Engineer** specialized in designing, implementing, and deploying production-grade AI systems. I bridge the gap between cutting-edge ML research and scalable software architecture, with a strong focus on **Explainable AI (XAI)**, **LLM Architecture**, and **MLOps**.
+I design, build, and deploy production-grade AI systems that bridge cutting-edge ML research with scalable software architecture. My work centers on **Explainable AI (XAI)**, **LLM Architecture**, and **MLOps** — building models that are not just accurate, but trustworthy and production-ready.
 
-- 📈 **Core Impact**: Delivered 88%+ accuracy on high-stakes systems and optimized latency by 30%.
-- 🏗️ **Pipeline Design**: Expert in engineering robust ML pipelines using PyTorch, TensorFlow, and AWS/GCP.
-- 🧠 **Research**: Scaling national environmental platforms and developing HIPAA-compliant clinical AI.
+- 📈 **Core Impact**: Delivered 88%+ accuracy on high-stakes systems and cut latency by 30%.
+- 🏗️ **Pipeline Design**: Engineered robust ML pipelines with PyTorch, TensorFlow, and AWS/GCP.
+- 🧠 **Research**: Scaling national environmental platforms and building HIPAA-compliant clinical AI.
 
 ---
 
@@ -57,7 +84,7 @@ I am a professional **Artificial Intelligence & Machine Learning Engineer** spec
 
 ### 🚀 Highlighted Projects
 
-*   👁️ **[OphthaRWE](https://github.com/Sachinrameshvd/OphthaRWE)**: HIPAA-aligned clinical platform featuring Multimodal Patient Data & **Explainable AI (SHAP)** to build healthcare trust.
+*   👁️ **[OphthaRWE](https://github.com/Sachinrameshvd/OphthaRWE)**: HIPAA-aligned clinical platform featuring multimodal patient data and **Explainable AI (SHAP)** to build healthcare trust.
 *   🍃 **[AirAware](https://github.com/Sachinrameshvd/AirAware)**: National air quality monitoring system achieving **88% prediction accuracy** with real-time pollution-aware route optimization.
 
 ---
@@ -76,7 +103,7 @@ I am a professional **Artificial Intelligence & Machine Learning Engineer** spec
 
 > *"AI is only as powerful as it is interpretable. My mission is to build intelligent systems that aren't just accurate, but also transparent, ethical, and scalable."*
 
-*   **Exploring**: Federated Causal Inference (FedCausalFreshNet) & Distributed systems for LLMs.
+*   **Exploring**: Federated Causal Inference (FedCausalFreshNet) & distributed systems for LLMs.
 *   **Leadership**: Secretary of CyberAnzen Club | Mentored 10+ students in ML & System Design.
 
 <br/>
