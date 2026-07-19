@@ -1,60 +1,24 @@
-<table>
-<tr>
-<td width="26%" align="center">
-  <img src="https://github.com/Sachinrameshvd.png" width="200" style="border-radius:50%;" /><br/><br/>
-  <b style="font-size:20px;">Sachin Kuppuswamy</b><br/>
-  <sub>@Sachinrameshvd</sub><br/><br/>
+
+<p align="center">
   <a href="https://linkedin.com/in/sachin-kuppuswamy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:sachinrameshvijayarani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" />
   </a>
   <a href="https://github.com/Sachinrameshvd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" />
   </a>
-</td>
-<td width="74%">
-
-```
-sachin@github
---------------
-Role: ...................... AI & Machine Learning Engineer
-Uptime: ..................... 3+ years building production AI systems
-Focus: ...................... Explainable AI (XAI), LLM Architecture, MLOps
-Kernel: ...................... PyTorch 2.x / TensorFlow
-
-Languages.Programming: ...... Python, Java, C++, SQL
-Languages.Computer: ......... HTML, CSS, JSON, YAML
-Languages.Real: ............. English, Tamil
-
-Frameworks.DL: .............. PyTorch, TensorFlow, Keras, Hugging Face
-Frameworks.GenAI: ........... LangChain, RAG, Vector DBs
-Frameworks.MLOps: ........... Docker, Kubernetes, AWS, GCP
-
-Contact.Email: .............. sachinrameshvijayarani@gmail.com
-Contact.LinkedIn: ........... sachin-kuppuswamy
-Contact.GitHub: ............. Sachinrameshvd
-
-Portfolio Stats ------
-Projects: .... 2 {OphthaRWE, AirAware}
-Accuracy: .... 88%+
-Latency Cut: . 30%
-Certs: ....... 5 {Oracle, AWS, IBM, Microsoft, Snowflake}
-```
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 ### 🏛️ Executive Summary
-I design, build, and deploy production-grade AI systems that bridge cutting-edge ML research with scalable software architecture. My work centers on **Explainable AI (XAI)**, **LLM Architecture**, and **MLOps** — building models that are not just accurate, but trustworthy and production-ready.
+I am a professional **Artificial Intelligence & Machine Learning Engineer** specialized in designing, implementing, and deploying production-grade AI systems. I bridge the gap between cutting-edge ML research and scalable software architecture, with a strong focus on **Explainable AI (XAI)**, **LLM Architecture**, and **MLOps**.
 
-- 📈 **Core Impact**: Delivered 88%+ accuracy on high-stakes systems and cut latency by 30%.
-- 🏗️ **Pipeline Design**: Engineered robust ML pipelines with PyTorch, TensorFlow, and AWS/GCP.
-- 🧠 **Research**: Scaling national environmental platforms and building HIPAA-compliant clinical AI.
+- 📈 **Core Impact**: Delivered 88%+ accuracy on high-stakes systems and optimized latency by 30%.
+- 🏗️ **Pipeline Design**: Expert in engineering robust ML pipelines using PyTorch, TensorFlow, and AWS/GCP.
+- 🧠 **Research**: Scaling national environmental platforms and developing HIPAA-compliant clinical AI.
 
 ---
 
@@ -93,7 +57,7 @@ I design, build, and deploy production-grade AI systems that bridge cutting-edge
 
 ### 🚀 Highlighted Projects
 
-*   👁️ **[OphthaRWE](https://github.com/Sachinrameshvd/OphthaRWE)**: HIPAA-aligned clinical platform featuring multimodal patient data and **Explainable AI (SHAP)** to build healthcare trust.
+*   👁️ **[OphthaRWE](https://github.com/Sachinrameshvd/OphthaRWE)**: HIPAA-aligned clinical platform featuring Multimodal Patient Data & **Explainable AI (SHAP)** to build healthcare trust.
 *   🍃 **[AirAware](https://github.com/Sachinrameshvd/AirAware)**: National air quality monitoring system achieving **88% prediction accuracy** with real-time pollution-aware route optimization.
 
 ---
@@ -112,7 +76,7 @@ I design, build, and deploy production-grade AI systems that bridge cutting-edge
 
 > *"AI is only as powerful as it is interpretable. My mission is to build intelligent systems that aren't just accurate, but also transparent, ethical, and scalable."*
 
-*   **Exploring**: Federated Causal Inference (FedCausalFreshNet) & distributed systems for LLMs.
+*   **Exploring**: Federated Causal Inference (FedCausalFreshNet) & Distributed systems for LLMs.
 *   **Leadership**: Secretary of CyberAnzen Club | Mentored 10+ students in ML & System Design.
 
 <br/>
