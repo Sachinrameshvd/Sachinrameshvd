@@ -1,37 +1,46 @@
 <table>
 <tr>
-<td width="30%" align="center">
-  <img src="https://github.com/Sachinrameshvd.png" width="220" style="border-radius:50%;" /><br/><br/>
+<td width="26%" align="center">
+  <img src="https://github.com/Sachinrameshvd.png" width="200" style="border-radius:50%;" /><br/><br/>
   <b style="font-size:20px;">Sachin Kuppuswamy</b><br/>
   <sub>@Sachinrameshvd</sub><br/><br/>
   <a href="https://linkedin.com/in/sachin-kuppuswamy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
   </a>
   <a href="mailto:sachinrameshvijayarani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
   </a>
   <a href="https://github.com/Sachinrameshvd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" />
   </a>
 </td>
-<td width="70%">
+<td width="74%">
 
 ```
-sachin@ml-engineer
--------------------
-Role: ................... AI & Machine Learning Engineer
-Focus: .................. Explainable AI (XAI), LLM Architecture, MLOps
-Core.Impact: ............ 88%+ model accuracy, 30% latency reduction
-Languages.Programming: .. Python, Java, C++, SQL
-Frameworks: ............. PyTorch, TensorFlow, Keras, Hugging Face
-Infra: .................. Docker, Kubernetes, AWS, GCP
-Certifications: ......... Oracle | AWS | IBM | Microsoft | Snowflake
-Leadership: ............. Secretary @ CyberAnzen Club
-Mentoring: .............. 10+ students in ML & System Design
-Contact.Email: .......... sachinrameshvijayarani@gmail.com
-Contact.LinkedIn: ....... sachin-kuppuswamy
-Contact.GitHub: ......... Sachinrameshvd
--------------------
+sachin@github
+--------------
+Role: ...................... AI & Machine Learning Engineer
+Uptime: ..................... 3+ years building production AI systems
+Focus: ...................... Explainable AI (XAI), LLM Architecture, MLOps
+Kernel: ...................... PyTorch 2.x / TensorFlow
+
+Languages.Programming: ...... Python, Java, C++, SQL
+Languages.Computer: ......... HTML, CSS, JSON, YAML
+Languages.Real: ............. English, Tamil
+
+Frameworks.DL: .............. PyTorch, TensorFlow, Keras, Hugging Face
+Frameworks.GenAI: ........... LangChain, RAG, Vector DBs
+Frameworks.MLOps: ........... Docker, Kubernetes, AWS, GCP
+
+Contact.Email: .............. sachinrameshvijayarani@gmail.com
+Contact.LinkedIn: ........... sachin-kuppuswamy
+Contact.GitHub: ............. Sachinrameshvd
+
+Portfolio Stats ------
+Projects: .... 2 {OphthaRWE, AirAware}
+Accuracy: .... 88%+
+Latency Cut: . 30%
+Certs: ....... 5 {Oracle, AWS, IBM, Microsoft, Snowflake}
 ```
 
 </td>
