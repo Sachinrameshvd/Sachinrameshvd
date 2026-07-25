@@ -44,49 +44,30 @@
 <br/>
 
 ```bash
-┌─[sachin@production]─[~]
-└──╼ $ ./boot.sh --whoami
-
-[ OK ] Loading identity module.......... done
-[ OK ] Mounting production mindset....... done
-[ OK ] Killing 9-second inference time... done (now <1s)
-[ OK ] Checking ego vs latency........... latency wins
-[ OK ] Starting about_me.py
-
-$ python3 about_me.py
+$ git log --oneline --graph --decorate --all
 ```
 
-```python
-class Sachin:
-    def __init__(self):
-        self.role           = "AI/ML Engineer"
-        self.based_in       = "India 🇮🇳"
-        self.studying       = "B.Tech CSE @ SRM IST"
-        self.gpa            = "8.9 / 10  ████████████████████░░  89%"
-        self.builds         = ["multimodal ML systems", "federated learning", "RAG pipelines"]
-        self.obsessed_with  = "making models survive production, not just notebooks"
-        self.status         = "🟢 online — probably debugging something at 2 AM"
-        self.coffee_level   = "☕☕☕☕☕☕☕░░░  70%  (send help)"
-
-    def currently(self):
-        return [
-            "🔭  shipping clinical-grade multimodal ML with explainability baked in",
-            "🌱  going deeper on RAG architecture + LLM serving optimization",
-            "🤝  open to healthcare-AI / federated-learning / MLOps OSS collabs",
-            "⚡  fun fact: every model I ship has to survive latency before ego",
-        ]
-
-    def __repr__(self):
-        return f"<Sachin | {self.role} | shipping > sleeping>"
-
-
-me = Sachin()
-print(me)
 ```
-
-```yaml
->>> <Sachin | AI/ML Engineer | shipping > sleeping>
->>> Process finished with exit code 0 ✅
+* 9f3a1c2 (HEAD -> main, origin/main) status: 🟢 online — probably debugging something at 2 AM
+* 7b8e4d0 chore(life): based in India 🇮🇳 · B.Tech CSE @ SRM IST · GPA 8.9/10
+* 2d6f9a1 feat(mindset): obsessed with making models survive production, not notebooks
+|
+* c4a7e33 feat(ophtha-rwe): fuse retinal-image CNN + patient data → 91% AUC
+* 1e2b6f8 perf(ophtha-rwe): export to ONNX, rebuild serving → 9s to <1s inference
+* 8a0d4c5 feat(federated-food): train spoilage classifier across 5 nodes, no raw data leaves device
+* 5f1c9b7 feat(airaware): serve 6-city AQI models via Flask, <100ms response
+* 3c8e2a4 fix(airaware): add retry + SQLite cache for flaky routing API → 70% latency drop
+|
+* a9d5f10 wip(rag): improving retrieval quality + chunking strategy, real evals not vibes
+* 6e2b8c3 wip(llm-serving): exploring quantization + dynamic batching beyond ONNX
+* 4f7a1d9 wip(training): reading up on distributed patterns for bigger multimodal models
+|
+* 0b3c6e2 (tag: mentor) helped 10+ juniors ship their first ML projects
+* d8f4a71 (tag: secretary) ran workshops, hackathons, CTFs for 100+ students @ CyberAnzen Club
+* 1a5e9c0 (tag: cs50-ai) completed CS50's AI with Python, Harvard — 12 hands-on projects
+|
+* Author: Sachin Kuppuswamy <sachinrameshvijayarani@gmail.com>
+* Note:   open to healthcare-AI / federated-learning / MLOps OSS collabs — feel free to reach out
 ```
 
 <br/>
