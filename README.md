@@ -21,13 +21,17 @@
 
 <div align="center">
 
+<sub>「 巻ノ壱 — VOLUME ONE 」</sub>
+
 <!-- Ink-wash gradient header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3d0c0c,100:0d0d0d&height=260&section=header&text=SACHIN%20KUPPUSWAMY&fontSize=52&fontColor=E8E4D9&fontAlignY=36&animation=twinkling&desc=%3E%20AI%2FML%20Engineer%20_%20I%20ship%20models%20that%20survive%20production&descAlignY=58&descSize=18&descColor=B91C1C" width="100%"/>
 
 <!-- 🔧 REPLACE [C]: optional silhouette / brush-art image can sit here, centered, ~120px tall -->
 
-<!-- Terminal typing animation — ink palette -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=800&color=E8E4D9,B91C1C,C9A227&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%24+whoami;multimodal-ml-engineer+%7C+mlops+%7C+backend;%24+cat+focus.txt;ONNX+%2B+FastAPI+%2B+Docker+%2B+RAG;%24+./deploy.sh+--prod;%E2%9C%94+shipped." alt="Typing SVG"/>
+<sub>道を極める — mastering the way, one commit at a time</sub>
+
+<!-- Terminal typing animation — brush-style font, ink palette -->
+<img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&weight=500&size=26&duration=2400&pause=800&color=E8E4D9,B91C1C,C9A227&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%24+whoami;multimodal-ml-engineer+%7C+mlops+%7C+backend;%24+cat+focus.txt;ONNX+%2B+FastAPI+%2B+Docker+%2B+RAG;%24+./deploy.sh+--prod;%E2%9C%94+shipped." alt="Typing SVG"/>
 
 <br/>
 
@@ -101,11 +105,19 @@ print(me)
 <br/>
 
 <!-- 🔧 REPLACE [D]: torn-paper / scroll-edge divider can go here -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=4&section=header" width="70%"/></div>
+<div align="center">
+
+<sub>○ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ○</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=3&section=header" width="60%"/>
+
+</div>
 
 <div align="center">
 
-## 「 ⚔️ Tech Arsenal 」
+#### 「第一章」
+
+## 武器 — TECH ARSENAL
 
 </div>
 
@@ -159,11 +171,19 @@ print(me)
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=4&section=header" width="70%"/></div>
+<div align="center">
+
+<sub>○ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ○</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=3&section=header" width="60%"/>
+
+</div>
 
 <div align="center">
 
-## 「 🥋 Featured Builds 」
+#### 「第二章」
+
+## 業 — FEATURED BUILDS
 
 <sub>a pin-board of the projects that actually shipped</sub>
 
@@ -258,11 +278,19 @@ print(me)
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=4&section=header" width="70%"/></div>
+<div align="center">
+
+<sub>○ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ○</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=3&section=header" width="60%"/>
+
+</div>
 
 <div align="center">
 
-## 「 📊 Live Stats 」
+#### 「第三章」
+
+## 記録 — LIVE STATS
 
 <!-- 🔧 REPLACE username in all URLs below -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&hide_border=true&bg_color=00000000&icon_color=B91C1C&title_color=E8E4D9&text_color=c9c9c9" height="165"/>
@@ -278,11 +306,19 @@ print(me)
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=4&section=header" width="70%"/></div>
+<div align="center">
+
+<sub>○ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ○</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=3&section=header" width="60%"/>
+
+</div>
 
 <div align="center">
 
-### 「 📚 Currently Debugging In My Head 」
+#### 「第四章」
+
+### 修行中 — CURRENTLY DEBUGGING IN MY HEAD
 
 <img src="https://img.shields.io/badge/-🧩_LLM_Serving_%E2%80%94_Quantization_%2B_Dynamic_Batching-B91C1C?style=for-the-badge&labelColor=B91C1C&color=B91C1C"/>
 
@@ -300,7 +336,9 @@ print(me)
 
 <div align="center">
 
-### 「 🌐 Community & Impact 」
+#### 「第五章」
+
+### 縁 — COMMUNITY & IMPACT
 
 <img src="https://img.shields.io/badge/-🎖️_Secretary%2C_CyberAnzen_Club-C9A227?style=for-the-badge&labelColor=C9A227&color=C9A227"/>
 <img src="https://img.shields.io/badge/-📘_Peer_Mentor_%E2%80%94_10%2B_Juniors_Shipped-B91C1C?style=for-the-badge&labelColor=B91C1C&color=B91C1C"/>
@@ -318,11 +356,26 @@ print(me)
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=4&section=header" width="70%"/></div>
+<div align="center">
+
+<sub>○ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ○</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d0d0d,50:B91C1C,100:0d0d0d&height=3&section=header" width="60%"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=E8E4D9,B91C1C,C9A227&center=true&vCenter=true&width=750&lines=%22Ship+the+version+that+fits+inside%22;%22someone's+actual+workflow.%22" alt="Typing SVG"/>
+<sub>「終章」</sub>
+
+## 道 — THE WAY FORWARD
+
+<img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&weight=500&size=22&duration=3000&pause=1200&color=E8E4D9,B91C1C,C9A227&center=true&vCenter=true&width=750&lines=%22Ship+the+version+that+fits+inside%22;%22someone's+actual+workflow.%22" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-🔴_了-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B91C1C"/>
+<sub>&nbsp;&nbsp;end of volume one — more chapters in progress</sub>
 
 <br/><br/>
 
