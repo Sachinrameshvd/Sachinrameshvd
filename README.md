@@ -230,10 +230,10 @@ print(me)
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLM_Serving-quantization_%26_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14&logo=lightning&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Production_RAG-retrieval%2C_chunking%2C_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF&logo=databricks&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/LLM_Serving-quantization_%26_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
+<img src="https://img.shields.io/badge/Production_RAG-retrieval%2C_chunking%2C_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
 <br/>
-<img src="https://img.shields.io/badge/Distributed_Training-scaling_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5&logo=googlecloud&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/Distributed_Training-scaling_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
 
 </div>
 
@@ -245,11 +245,11 @@ print(me)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E&logo=shield&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Peer_Mentor-10_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14&logo=googleclassroom&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E"/>
+<img src="https://img.shields.io/badge/Peer_Mentor-10_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
 <br/>
-<img src="https://img.shields.io/badge/CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF&logo=harvard&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Open_to_Collabs-MLOps_%26_Healthcare_AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5&logo=github&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/badge/Open_to_Collabs-MLOps_%26_Healthcare_AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
 
 <br/><br/>
 
