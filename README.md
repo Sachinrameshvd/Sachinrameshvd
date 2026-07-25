@@ -44,28 +44,49 @@
 <br/>
 
 ```bash
-$ cat about_me.sh
+┌─[sachin@production]─[~]
+└──╼ $ ./boot.sh --whoami
+
+[ OK ] Loading identity module.......... done
+[ OK ] Mounting production mindset....... done
+[ OK ] Killing 9-second inference time... done (now <1s)
+[ OK ] Checking ego vs latency........... latency wins
+[ OK ] Starting about_me.py
+
+$ python3 about_me.py
 ```
 
 ```python
 class Sachin:
     def __init__(self):
-        self.role       = "AI/ML Engineer"
-        self.based_in   = "India"
-        self.studying   = "B.Tech CSE @ SRM IST  (CGPA 8.9 ⭐)"
-        self.builds     = ["multimodal ML systems", "federated learning", "RAG pipelines"]
-        self.obsessed_with = "making models survive production, not just notebooks"
-        self.status     = "🟢 online — probably debugging something at 2 AM"
+        self.role           = "AI/ML Engineer"
+        self.based_in       = "India 🇮🇳"
+        self.studying       = "B.Tech CSE @ SRM IST"
+        self.gpa            = "8.9 / 10  ████████████████████░░  89%"
+        self.builds         = ["multimodal ML systems", "federated learning", "RAG pipelines"]
+        self.obsessed_with  = "making models survive production, not just notebooks"
+        self.status         = "🟢 online — probably debugging something at 2 AM"
+        self.coffee_level   = "☕☕☕☕☕☕☕░░░  70%  (send help)"
 
     def currently(self):
         return [
-            "🔭 shipping clinical-grade multimodal ML with explainability baked in",
-            "🌱 going deeper on RAG architecture + LLM serving optimization",
-            "🤝 open to healthcare-AI / federated-learning / MLOps OSS collabs",
-            "⚡ fun fact: every model I ship has to survive latency before ego",
+            "🔭  shipping clinical-grade multimodal ML with explainability baked in",
+            "🌱  going deeper on RAG architecture + LLM serving optimization",
+            "🤝  open to healthcare-AI / federated-learning / MLOps OSS collabs",
+            "⚡  fun fact: every model I ship has to survive latency before ego",
         ]
 
+    def __repr__(self):
+        return f"<Sachin | {self.role} | shipping > sleeping>"
+
+
 me = Sachin()
+print(me)
+```
+
+```yaml
+>>> <Sachin | AI/ML Engineer | shipping > sleeping>
+>>> Process finished with exit code 0 ✅
 ```
 
 <br/>
