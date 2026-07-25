@@ -230,10 +230,10 @@ print(me)
 
 <br/>
 
-<img src="https://img.shields.io/badge/🧩_LLM_Serving-quantization_%2B_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
-<img src="https://img.shields.io/badge/🧠_Production_RAG-retrieval_%2B_chunking_%2B_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/badge/LLM_Serving-quantization_%26_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14&logo=lightning&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Production_RAG-retrieval%2C_chunking%2C_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF&logo=databricks&logoColor=00F0FF"/>
 <br/>
-<img src="https://img.shields.io/badge/🌐_Distributed_Training-scaling_bigger_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+<img src="https://img.shields.io/badge/Distributed_Training-scaling_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5&logo=googlecloud&logoColor=FF00E5"/>
 
 </div>
 
@@ -245,11 +245,11 @@ print(me)
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎖️_Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E"/>
-<img src="https://img.shields.io/badge/🧑‍🏫_Peer_Mentor-10%2B_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
+<img src="https://img.shields.io/badge/Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E&logo=shield&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Peer_Mentor-10_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14&logo=googleclassroom&logoColor=39FF14"/>
 <br/>
-<img src="https://img.shields.io/badge/🎓_CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
-<img src="https://img.shields.io/badge/🤝_Open_to_Collabs-MLOps_%2F_Healthcare--AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+<img src="https://img.shields.io/badge/CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF&logo=harvard&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Open_to_Collabs-MLOps_%26_Healthcare_AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5&logo=github&logoColor=FF00E5"/>
 
 <br/><br/>
 
@@ -261,15 +261,13 @@ print(me)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=170&section=header&animation=twinkling" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00F0FF,39FF14,FF00E5&center=true&vCenter=true&width=750&lines=%22Ship+the+version+that+fits+inside%22;%22someone's+actual+workflow.%22" alt="Typing SVG"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sachinrameshvd&color=FF00E5&style=for-the-badge&label=THANKS+FOR+VISITING&labelColor=000000"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
