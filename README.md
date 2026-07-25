@@ -1,215 +1,245 @@
 <!--
   ============================================================
-  README.md — GitHub Profile (Glassmorphism Theme)
+  README.md — GitHub Profile (Terminal / Hacker Theme)
   ============================================================
-  HOW TO USE THIS FILE:
-  1. Create a repo named EXACTLY your GitHub username (e.g. "Sachinrameshvd")
-     -> that's what makes GitHub render this as your profile README.
-  2. Replace every placeholder marked with 🔧 REPLACE.
-  3. All stats/typing widgets below use free third-party services
-     (github-readme-stats, readme-typing-svg, skillicons.dev) —
-     they auto-update, you don't need to touch them beyond the username.
+  SETUP:
+  1. Repo name must EXACTLY match your GitHub username (e.g. "Sachinrameshvd")
+     -> that's the only way GitHub renders this as your profile page.
+  2. Replace every 🔧 REPLACE marker.
+  3. To get the animated SNAKE contribution graph at the bottom working,
+     see the "SNAKE SETUP" comment near the bottom — it needs one
+     GitHub Actions file (I've written it out for you, just copy-paste).
   ============================================================
 -->
 
 <div align="center">
 
-<!-- 🔧 REPLACE "Sachinrameshvd" with your GitHub username in the line below -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Sachin%20Kuppuswamy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20systems%20that%20ship,%20not%20just%20notebooks&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated dark banner — 🔧 REPLACE text if you want a different name/tagline -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SACHIN%20KUPPUSWAMY&fontSize=46&fontColor=39FF14&fontAlignY=40&desc=%3E%20AI%2FML%20Engineer%20_%20building%20models%20that%20survive%20production&descAlignY=62&descSize=16&descColor=00F0FF&animation=twinkling" width="100%"/>
 
-<!-- Typing animation — 🔧 REPLACE the &lines= text if you want different taglines -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Multimodal+ML+%2B+MLOps;ONNX+%2B+FastAPI+%2B+Docker;RAG+pipelines+%26+LLM+tooling;Turning+research+ideas+into+shipped+APIs" alt="Typing SVG" />
-</a>
+<!-- Terminal typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami;multimodal-ml-engineer+%7C+mlops+%7C+backend;%24+cat+focus.txt;ONNX+%2B+FastAPI+%2B+Docker+%2B+RAG;%24+echo+%22ship+it%22" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- 🔧 REPLACE links -->
+<a href="mailto:sachinrameshvijayarani@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=000000"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
+<a href="https://github.com/Sachinrameshvd"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
 
 <br/>
 
-<!-- Badges — 🔧 REPLACE links with your real profiles -->
-<a href="mailto:sachinrameshvijayarani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Sachinrameshvd"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Animated typing divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- ⬆ this snake animation needs a one-time setup — see "SNAKE SETUP" comment near the bottom of this file -->
 
 </div>
 
 <br/>
 
-<!-- ================= GLASS CARD: ABOUT ================= -->
-<table width="100%" style="border-collapse: collapse;">
-<tr>
-<td style="background: rgba(138,99,210,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(138,99,210,0.25); padding: 20px;">
+```bash
+$ cat about_me.sh
+```
 
-### 👋 About Me
+```python
+class Sachin:
+    def __init__(self):
+        self.role       = "AI/ML Engineer"
+        self.based_in   = "India"
+        self.studying   = "B.Tech CSE @ SRM IST (CGPA 8.9)"
+        self.builds     = ["multimodal ML systems", "federated learning", "RAG pipelines"]
+        self.obsessed_with = "making models survive production, not just notebooks"
 
-I'm a Computer Science undergrad (SRM Institute of Science and Technology) who builds end-to-end ML systems — not just models in a notebook, but the pipeline, the API, and the deployment around them. I like the part of the job most people skip: making a model actually *survive* production traffic, bad inputs, and latency budgets.
+    def currently(self):
+        return [
+            "🔭 shipping clinical-grade multimodal ML with explainability baked in",
+            "🌱 going deeper on RAG architecture + LLM serving optimization",
+            "🤝 open to healthcare-AI / federated-learning / MLOps OSS collabs",
+        ]
 
-Most of my work sits at the intersection of **applied deep learning, MLOps, and backend engineering** — multimodal classifiers, federated learning, causal inference, and the FastAPI/Docker plumbing that gets them in front of real users.
-
-- 🔭 Currently building **clinical-grade multimodal ML systems** with a focus on explainability and low-latency inference
-- 🌱 Deepening my knowledge of **RAG pipelines, LangChain, and LLM serving patterns**
-- 🤝 Open to collaborating on **healthcare AI, federated learning, and open-source MLOps tooling**
-- 💬 Ask me about **ONNX optimization, model explainability (SHAP), or federated learning with Flower**
-
-</td>
-</tr>
-</table>
+me = Sachin()
+```
 
 <br/>
 
-<!-- ================= GLASS CARD: TECH STACK ================= -->
-<table width="100%">
-<tr>
-<td style="background: rgba(37,117,252,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(37,117,252,0.25); padding: 20px;">
+## ⚡ Tech Stack
 
-### 🧰 Tech Stack
+<div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
 
 **ML / Deep Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/ONNX-000000?style=flat-square&logo=onnx&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Transformers-000000?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
 
 **Generative AI / LLMs**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-6a11cb?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/FAISS-000000?style=flat-square&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=flat-square&logoColor=39FF14"/>
 
 **MLOps & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=0194E2"/>
 
 **Computer Vision**
 <br/>
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/MediaPipe-000000?style=flat-square&logoColor=00F0FF"/>
 
-**Data & Databases**
+**Data & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,react" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= GLASS CARD: FEATURED PROJECTS ================= -->
-<table width="100%">
-<tr>
-<td style="background: rgba(138,99,210,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(138,99,210,0.25); padding: 20px;">
-
-### 🚀 Featured Projects
-
-<!-- 🔧 REPLACE each "your-repo" link below with the real GitHub repo URL -->
-
-#### 🏥 [OphthaRWE — Clinical Multimodal Eye-Disease Classifier](https://github.com/Sachinrameshvd/your-repo)
-`PyTorch` `FastAPI` `ONNX` `SHAP` `Docker`
-
-Fuses CNN retinal-image embeddings with structured patient data to flag eye disease risk — 91% AUC on held-out data. Inference was originally too slow for clinical use (~9s), so I exported to ONNX and rebuilt the serving layer, getting predictions under 1 second. Every response ships with SHAP-based explanations so clinicians can see *why*, not just *what*. Patient data is AES-256 encrypted with role-based access control, fully containerized for reproducible deployment.
-
-#### 🥦 [Federated Food Freshness Detector](https://github.com/Sachinrameshvd/your-repo)
-`PyTorch` `Flower` `YOLOv8` `DoWhy`
-
-A spoilage classifier trained across 5 simulated devices using federated learning (Flower) — no raw images ever leave a node, reaching 92.3% global accuracy. Layered a fine-tuned YOLOv8 detector on top to classify produce, storage zone, and origin. Then went a step further: added a causal inference module (DoWhy) to test whether fridge placement *causes* freshness changes rather than just correlating with them — the analysis pointed to up to 5.2 extra days of shelf life with better zoning.
-
-#### 🌫️ [AirAware — Air Quality Predictor & Route Planner](https://github.com/Sachinrameshvd/your-repo)
-`XGBoost` `Scikit-learn` `Flask` `REST API`
-
-City-specific AQI forecasting models for 6 Indian metros, served via a Flask API in under 100ms. When the routing service integration started failing during upstream outages, I added retry logic and SQLite caching — which also cut average latency by ~70% as a side effect. Retrains nightly on ~250k live records with versioned artifacts to stay current.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= GLASS CARD: STATS ================= -->
-<table width="100%">
-<tr>
-<td width="50%" style="background: rgba(37,117,252,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(37,117,252,0.25); padding: 16px;">
-
-<!-- 🔧 REPLACE "Sachinrameshvd" with your GitHub username in every URL below -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=transparent&hide_border=true&title_color=8A63D2&icon_color=2575fc&text_color=ffffff" />
-
-</td>
-<td width="50%" style="background: rgba(37,117,252,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(37,117,252,0.25); padding: 16px;">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=transparent&hide_border=true&title_color=8A63D2&text_color=ffffff" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<!-- 🔧 REPLACE username here too -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=transparent&hide_border=true&ring=8A63D2&fire=2575fc&currStreakLabel=ffffff" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,react&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/Apache_Spark-000000?style=flat-square&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
 
 </div>
 
 <br/>
 
-<!-- ================= GLASS CARD: LEARNING + OSS ================= -->
-<table width="100%">
-<tr>
-<td style="background: rgba(138,99,210,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(138,99,210,0.25); padding: 20px;">
+## 🚀 Featured Builds
 
-### 📚 Currently Leveling Up
+<details open>
+<summary><b>🏥 OphthaRWE — Clinical Multimodal Eye-Disease Classifier</b> <code>PyTorch · FastAPI · ONNX · SHAP · Docker</code></summary>
+<br/>
 
-- LLM serving & inference optimization patterns beyond ONNX (quantization, batching)
-- Production RAG architecture — retrieval quality, chunking strategy, evaluation
-- Distributed training patterns for larger multimodal models
+```diff
++ Fuses retinal-image CNN embeddings with structured patient data → 91% AUC
++ Inference bottleneck: ~9s → exported to ONNX + rebuilt serving → <1s
++ SHAP explanations shipped with every prediction (clinicians see the "why")
++ AES-256 encryption + RBAC on patient data, fully Dockerized
+```
 
-### 🤝 Open Source & Community
+<!-- 🔧 REPLACE with real repo link -->
+[`→ view repo`](https://github.com/Sachinrameshvd/your-repo)
+</details>
 
-- **Secretary, CyberAnzen Club** — organized workshops, hackathons, and CTF events for 100+ students
-- **Peer Mentor** — guided 10+ juniors through ML fundamentals and project builds
-- Completed **CS50's Artificial Intelligence with Python** (Harvard) — 12 hands-on AI projects
-- Actively looking to contribute to open-source MLOps and healthcare-AI tooling — feel free to open an issue or reach out if you're building something in that space
+<details>
+<summary><b>🥦 Federated Food Freshness Detector</b> <code>PyTorch · Flower · YOLOv8 · DoWhy</code></summary>
+<br/>
 
-</td>
-</tr>
-</table>
+```diff
++ Federated spoilage classifier across 5 nodes (Flower) → 92.3% global acc
++ No raw images ever leave a device
++ YOLOv8 fine-tuned on 5k produce images → 0.893 mAP@50
++ Added DoWhy causal inference to test if fridge placement CAUSES freshness
+  changes, not just correlates → up to 5.2 extra shelf-life days
+```
+
+[`→ view repo`](https://github.com/Sachinrameshvd/your-repo)
+</details>
+
+<details>
+<summary><b>🌫️ AirAware — Air Quality Predictor & Route Planner</b> <code>XGBoost · Flask · REST API</code></summary>
+<br/>
+
+```diff
++ City-specific AQI models, 6 Indian metros, served <100ms via Flask
++ Upstream routing API kept failing on outages → added retry + SQLite cache
++ Side effect: ~70% latency drop
++ Nightly retraining on ~250k live records, versioned artifacts
+```
+
+[`→ view repo`](https://github.com/Sachinrameshvd/your-repo)
+</details>
 
 <br/>
 
-<!-- ================= GLASS CARD: PHILOSOPHY ================= -->
-<table width="100%">
-<tr>
-<td align="center" style="background: rgba(37,117,252,0.08); backdrop-filter: blur(10px); border-radius: 16px; border: 1px solid rgba(37,117,252,0.25); padding: 20px;">
+## 📊 Live Stats
 
-### 💭 Developer Philosophy
+<div align="center">
 
-*"A 91%-AUC model that takes 9 seconds to respond helps no one. Ship the version that fits inside someone's actual workflow."*
+<!-- 🔧 REPLACE username in all 3 URLs below -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000" height="165"/>
 
-**Fun fact:** I've profiled more query bottlenecks and traced more latency spikes than I've trained brand-new architectures — and I'm fine with that. Making things fast and reliable is its own kind of research.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=github-dark-blue&hide_border=true&background=00000000" />
 
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=Sachinrameshvd&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## 📚 Currently Debugging In My Head
+
+- LLM serving optimization beyond ONNX — quantization, dynamic batching
+- Production RAG — retrieval quality, chunking strategy, real evals (not vibes)
+- Distributed training patterns for bigger multimodal models
+
+## 🌐 Community
+
+- **Secretary, CyberAnzen Club** — ran workshops, hackathons, CTFs for 100+ students
+- **Peer Mentor** — helped 10+ juniors ship their first ML projects
+- **CS50's AI with Python**, Harvard — 12 hands-on projects
+- Down to collaborate on open-source MLOps / healthcare-AI tooling — open an issue, or just ping me
 
 <br/>
 
 <div align="center">
+
+```
+"A 91%-AUC model that takes 9 seconds to respond helps no one.
+ Ship the version that fits inside someone's actual workflow."
+```
 
 <!-- 🔧 REPLACE username -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sachinrameshvd&color=8A63D2&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sachinrameshvd&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!--
+============================================================
+SNAKE SETUP (one-time, ~2 minutes):
+This makes the "snake eating your contribution graph" animation
+near the top actually work with YOUR real contribution data.
+
+1. In your profile repo, create: .github/workflows/snake.yml
+2. Paste this content into it:
+
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions: contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: YOUR-GITHUB-USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
+
+3. Commit, push, and manually run the workflow once (Actions tab -> Run workflow).
+4. After it finishes, the image URL in this README will show YOUR real snake.
+============================================================
+-->
