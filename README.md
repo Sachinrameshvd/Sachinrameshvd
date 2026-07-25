@@ -226,14 +226,17 @@ print(me)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,20&height=70&section=header&text=Currently%20Debugging%20In%20My%20Head&fontSize=24&fontColor=39FF14&fontAlignY=48&animation=fadeIn" width="100%"/>
+### 📚&nbsp; Currently Debugging In My Head
+
+<img src="https://img.shields.io/badge/-🧩_LLM_Serving_%E2%80%94_Quantization_%2B_Dynamic_Batching-39FF14?style=for-the-badge&labelColor=39FF14&color=39FF14"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLM_Serving-quantization_%26_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
-<img src="https://img.shields.io/badge/Production_RAG-retrieval%2C_chunking%2C_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/badge/-🧠_Production_RAG_%E2%80%94_Retrieval%2C_Chunking%2C_Real_Evals-00F0FF?style=for-the-badge&labelColor=00F0FF&color=00F0FF"/>
+
 <br/>
-<img src="https://img.shields.io/badge/Distributed_Training-scaling_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+
+<img src="https://img.shields.io/badge/-🌐_Distributed_Training_%E2%80%94_Scaling_Multimodal_Models-FF00E5?style=for-the-badge&labelColor=FF00E5&color=FF00E5"/>
 
 </div>
 
@@ -241,15 +244,15 @@ print(me)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,20&height=70&section=header&text=Community%20%26%20Impact&fontSize=24&fontColor=00F0FF&fontAlignY=48&animation=fadeIn" width="100%"/>
+### 🌐&nbsp; Community & Impact
+
+<img src="https://img.shields.io/badge/-🎖️_Secretary%2C_CyberAnzen_Club-FFD21E?style=for-the-badge&labelColor=FFD21E&color=FFD21E"/>
+<img src="https://img.shields.io/badge/-📘_Peer_Mentor_%E2%80%94_10%2B_Juniors_Shipped-39FF14?style=for-the-badge&labelColor=39FF14&color=39FF14"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E"/>
-<img src="https://img.shields.io/badge/Peer_Mentor-10_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
-<br/>
-<img src="https://img.shields.io/badge/CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
-<img src="https://img.shields.io/badge/Open_to_Collabs-MLOps_%26_Healthcare_AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+<img src="https://img.shields.io/badge/-🎓_CS50_AI_with_Python%2C_Harvard-00F0FF?style=for-the-badge&labelColor=00F0FF&color=00F0FF"/>
+<img src="https://img.shields.io/badge/-🤝_Open_to_MLOps_%26_Healthcare_AI_OSS_Collabs-FF00E5?style=for-the-badge&labelColor=FF00E5&color=FF00E5"/>
 
 <br/><br/>
 
