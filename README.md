@@ -23,8 +23,8 @@
 
 <sub>▌ VOLUME ONE ▐</sub>
 
-<!-- 🔧 Your hero image — add this file to your repo at assets/hero-banner.webp -->
-<img src="assets/hero-banner.webp" width="100%"/>
+<!-- 🔧 Your hero image — lives at the root of your repo -->
+<img src="hero-banner.webp" width="100%"/>
 
 <br/>
 
