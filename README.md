@@ -67,6 +67,7 @@ class Sachin:
         self.obsessed_with  = "making models survive production, not just notebooks"
         self.status         = "🟢 online — probably debugging something at 2 AM"
         self.coffee_level   = "☕☕☕☕☕☕☕░░░  70%  (send help)"
+        self.off_duty       = "⚽ playing football — best debugging tool I own"
 
     def currently(self):
         return [
