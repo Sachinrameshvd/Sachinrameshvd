@@ -224,24 +224,52 @@ print(me)
 
 <br/>
 
-## 📚 Currently Debugging In My Head
+<div align="center">
 
-- 🧩 LLM serving optimization beyond ONNX — quantization, dynamic batching
-- 🧠 Production RAG — retrieval quality, chunking strategy, real evals (not vibes)
-- 🌐 Distributed training patterns for bigger multimodal models
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,20&height=70&section=header&text=Currently%20Debugging%20In%20My%20Head&fontSize=24&fontColor=39FF14&fontAlignY=48&animation=fadeIn" width="100%"/>
 
-## 🌐 Community
+<br/>
 
-- **Secretary, CyberAnzen Club** — ran workshops, hackathons, CTFs for 100+ students
-- **Peer Mentor** — helped 10+ juniors ship their first ML projects
-- **CS50's AI with Python**, Harvard — 12 hands-on projects
-- Down to collaborate on open-source MLOps / healthcare-AI tooling — open an issue, or just ping me
+<img src="https://img.shields.io/badge/🧩_LLM_Serving-quantization_%2B_dynamic_batching-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
+<img src="https://img.shields.io/badge/🧠_Production_RAG-retrieval_%2B_chunking_%2B_real_evals-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<br/>
+<img src="https://img.shields.io/badge/🌐_Distributed_Training-scaling_bigger_multimodal_models-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=39FF14&height=90&section=header&text=%22Ship%20the%20version%20that%20fits%20inside%20someone's%20actual%20workflow.%22&fontSize=20&fontColor=00F0FF&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,20&height=70&section=header&text=Community%20%26%20Impact&fontSize=24&fontColor=00F0FF&fontAlignY=48&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎖️_Secretary-CyberAnzen_Club-0a0a0a?style=for-the-badge&labelColor=000000&color=FFD21E"/>
+<img src="https://img.shields.io/badge/🧑‍🏫_Peer_Mentor-10%2B_juniors_shipped-0a0a0a?style=for-the-badge&labelColor=000000&color=39FF14"/>
+<br/>
+<img src="https://img.shields.io/badge/🎓_CS50_AI_with_Python-Harvard-0a0a0a?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/badge/🤝_Open_to_Collabs-MLOps_%2F_Healthcare--AI_OSS-0a0a0a?style=for-the-badge&labelColor=000000&color=FF00E5"/>
+
+<br/><br/>
+
+> 🎯 **100+** students reached through workshops, hackathons & CTFs · **10+** juniors mentored into shipped projects
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=170&section=header&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00F0FF,39FF14,FF00E5&center=true&vCenter=true&width=750&lines=%22Ship+the+version+that+fits+inside%22;%22someone's+actual+workflow.%22" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sachinrameshvd&color=FF00E5&style=for-the-badge&label=THANKS+FOR+VISITING&labelColor=000000"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
